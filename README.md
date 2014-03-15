@@ -1,4 +1,6 @@
 Data-Science-with-Udacity
 =========================
 
-me self learning with some structure from udacity. these are my answer to questions which usually had no solution
+
+self teaching with some structure from udacity. these questions typically had no solution posted
+ 
